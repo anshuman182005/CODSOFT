@@ -1,4 +1,4 @@
-#Below are the links for the above tasks
+# Below are the links for the above tasks
 
 [Calculator](https://anshuman182005.github.io/Calculator/)
 
@@ -6,4 +6,4 @@
 
 [Landing Page](https://anshuman182005.github.io/Ecommerce-Store/)
 
-#Hope you like it
+# Hope you like it
